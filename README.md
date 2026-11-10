@@ -101,7 +101,7 @@ The upload was successful.
 
 The screenshot below shows the S3 object versions in the AWS Console.
 
-![S3 Versioning Evidence](s3-versioning.png.png)
+![S3 Versioning Evidence](s3-versioning.png)
 
 ## Troubleshooting
 
